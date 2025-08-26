@@ -1,4 +1,4 @@
 # meharkhannaa.github.io
 
-<<Mehar Khanna>>
+Mehar Khanna
 <<SI 338 Fall 2025
